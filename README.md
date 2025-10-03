@@ -29,3 +29,23 @@ auth/users
 auth/token/login
 
 auth/token/logout
+
+## Users and token credentials
+
+### Super user credentials for logging into Django admin panel
+Username: Superuser
+
+Email: superuser@littlelemon.com 
+
+Password: Super_1234
+
+Token: 7d7117e15711fa14b451ea14d806b4aad161c1b2
+
+### User credentials
+Username: User1
+
+Email: user1@littlelemon.com
+
+Password: First_user_123
+
+Token: c8ada9f6bfa0f18bea5621e0203dfe1121a51833
